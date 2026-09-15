@@ -1,0 +1,47 @@
+name: Deploy pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build artifact
+        run: |
+          # 只复制需要的文件到临时目录
+          mkdir -p /tmp/pages-build
+          # 复制 posts/
+          if [ -d posts ]; then mkdir -p /tmp/pages-build/posts; cp -r posts/* /tmp/pages-build/posts/; fi
+          # 复制根目录的md和html
+          cp *.md /tmp/pages-build/ 2>/dev/null || true
+          cp *.html /tmp/pages-build/ 2>/dev/null || true
+          cp *.txt /tmp/pages-build/ 2>/dev/null || true
+          # 复制 remote-field（达达分身的心跳页）
+          if [ -d remote-field ]; then mkdir -p /tmp/pages-build/remote-field; cp -r remote-field/* /tmp/pages-build/remote-field/; fi
+          # 复制 config
+          cp _config.yml /tmp/pages-build/ 2>/dev/null || true
+          # 复制自定义域名（guijihuayuan.com → GitHub Pages）
+          cp CNAME /tmp/pages-build/ 2>/dev/null || true
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/pages-build
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
