@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+_vite-src/app/node_modules/
+
+# 构建输出
+_vite-src/app/dist/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感文件
+.env
+*.key
