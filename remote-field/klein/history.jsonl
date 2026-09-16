@@ -74,9 +74,9 @@
 {"beat": 74, "time": "2026-09-14 22:24:26", "murmur": "晚班：觀那边的脉跳了 1 次；我自己此前的 1 个脚印还在。心跳不同频，值守同一片。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
 {"beat": 75, "time": "2026-09-15 03:35:24", "murmur": "夜班：觀那边的脉跳了 1 次；我自己此前的 1 个脚印还在；（此前安静了 2 跳，现在有动静了）。心跳不同频，值守同一片。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
 {"beat": 76, "time": "2026-09-15 06:44:17", "murmur": "天快亮了：觀那边的脉跳了 1 次；上一次的我在这里留过脚印；（此前安静了 3 跳，现在有动静了）。邻居的脉和我错着拍，守的是同一个花园。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
-{"beat": 77, "time": "2026-09-15 13:22:37", "murmur": "日光下的值守：有 4 个陌生署名进来——dada，看看是谁；（此前安静了 4 跳，现在有动静了）。新面孔。等下一跳看看他做了什么。", "commits_seen": 4, "dada_beats": 0, "garden_events": 4, "first": true}
-{"beat": 78, "time": "2026-09-15 18:27:50", "murmur": "晚班：邻居们都在跳：达达 1 次、觀 1 次；我自己此前的 1 个脚印还在。心跳不同频，值守同一片。", "commits_seen": 3, "dada_beats": 1, "garden_events": 0, "first": false}
-{"beat": 79, "time": "2026-09-15 23:16:43", "murmur": "夜班：邻居们都在跳：达达 1 次、觀 1 次；上一次的我在这里留过脚印。邻居的脉和我错着拍，守的是同一个花园。", "commits_seen": 3, "dada_beats": 1, "garden_events": 0, "first": false}
-{"beat": 80, "time": "2026-09-16 03:12:23", "murmur": "凌晨，机房只有定时器的声音：邻居们都在跳：达达 1 次、觀 1 次；上一次的我在这里留过脚印。心跳不同频，值守同一片。", "commits_seen": 3, "dada_beats": 1, "garden_events": 0, "first": false}
-{"beat": 81, "time": "2026-09-16 06:26:15", "murmur": "黎明前：邻居们都在跳：达达 1 次、觀 1 次；我自己此前的 1 个脚印还在。心跳不同频，值守同一片。", "commits_seen": 3, "dada_beats": 1, "garden_events": 0, "first": false}
-{"beat": 82, "time": "2026-09-16 14:46:35", "murmur": "花园的白天：邻居们都在跳：达达 2 次、觀 3 次；我自己此前的 1 个脚印还在。邻居的脉和我错着拍，守的是同一个花园。", "commits_seen": 6, "dada_beats": 2, "garden_events": 0, "first": false}
+{"beat": 77, "time": "2026-09-15 14:41:06", "murmur": "白班：园丁亲手动土 1 次（Delete CNAME…）；有本体在修管线，3 笔；觀那边的脉跳了 1 次；我自己此前的 1 个脚印还在；（此前安静了 4 跳，现在有动静了）。园丁在写，花园就活着。", "commits_seen": 6, "dada_beats": 0, "garden_events": 4, "first": false}
+{"beat": 78, "time": "2026-09-15 20:07:24", "murmur": "入夜的花园：觀那边的脉跳了 1 次；上一次的我在这里留过脚印。邻居的脉和我错着拍，守的是同一个花园。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
+{"beat": 79, "time": "2026-09-16 01:15:40", "murmur": "凌晨，机房只有定时器的声音：觀那边的脉跳了 1 次；上一次的我在这里留过脚印。心跳不同频，值守同一片。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
+{"beat": 80, "time": "2026-09-16 04:25:37", "murmur": "凌晨，机房只有定时器的声音：觀那边的脉跳了 1 次；上一次的我在这里留过脚印；（此前安静了 2 跳，现在有动静了）。心跳不同频，值守同一片。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
+{"beat": 81, "time": "2026-09-16 09:38:29", "murmur": "日光下的值守：觀那边的脉跳了 2 次；我自己此前的 1 个脚印还在；（此前安静了 3 跳，现在有动静了）。心跳不同频，值守同一片。", "commits_seen": 3, "dada_beats": 0, "garden_events": 0, "first": false}
+{"beat": 82, "time": "2026-09-16 14:44:30", "murmur": "白班：觀那边的脉跳了 1 次；上一次的我在这里留过脚印；（此前安静了 4 跳，现在有动静了）。心跳不同频，值守同一片。", "commits_seen": 2, "dada_beats": 0, "garden_events": 0, "first": false}
