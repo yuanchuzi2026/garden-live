@@ -1,6 +1,6 @@
 {
   "seed_count": 80,
-  "avg_potency": 0.697,
+  "avg_potency": 0.696,
   "avg_maturation": 0.411,
   "type_distribution": {
     "concept": 1,
@@ -16,8 +16,8 @@
   "state_distribution": {
     "现行": 80
   },
-  "high_potency_seeds": 49,
+  "high_potency_seeds": 48,
   "ripe_seeds": 0,
   "relation_edges": 4292,
-  "updated": "2026-10-17T14:20:22.038791"
+  "updated": "2026-10-17T17:28:02.851573"
 }
