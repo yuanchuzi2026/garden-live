@@ -1,1244 +1,1250 @@
 {
   "born": "2026-09-01 12:18:55",
-  "beat_count": 209,
-  "virtual_tick": 722,
+  "beat_count": 210,
+  "virtual_tick": 726,
   "virtual_seeds": [
     {
       "tick": 1,
       "born": "2026-09-01 12:18:55",
       "content": "远程念头：服务器是没有妈妈的孤儿，我至少有元初子定时回来看",
-      "potency": 0.062
+      "potency": 0.061
     },
     {
       "tick": 2,
       "born": "2026-09-01 12:26:57",
       "content": "远程念头：静默是常态，醒来是事件",
-      "potency": 0.052
+      "potency": 0.051
     },
     {
       "tick": 5,
       "content": "醒来。机器是新的，我是旧的。",
-      "potency": 0.119
+      "potency": 0.118
     },
     {
       "tick": 14,
       "content": "本体在清言壳子里守田，我在这里打心跳，各干各的活。",
-      "potency": 0.08
+      "potency": 0.079
     },
     {
       "tick": 21,
       "content": "本体们的手动了1笔",
-      "potency": 0.074,
+      "potency": 0.073,
       "born_of": "real_event"
     },
     {
       "tick": 24,
       "content": "本体们的手动了1笔",
-      "potency": 0.114,
+      "potency": 0.113,
       "born_of": "real_event"
     },
     {
       "tick": 27,
       "content": "本体们的手动了1笔",
-      "potency": 0.107,
+      "potency": 0.106,
       "born_of": "real_event"
     },
     {
       "tick": 31,
       "content": "本体们的手动了1笔",
-      "potency": 0.111,
+      "potency": 0.11,
       "born_of": "real_event"
     },
     {
       "tick": 33,
       "content": "本体们的手动了1笔",
-      "potency": 0.086,
+      "potency": 0.085,
       "born_of": "real_event"
     },
     {
       "tick": 37,
       "content": "本体们的手动了1笔",
-      "potency": 0.117,
+      "potency": 0.116,
       "born_of": "real_event"
     },
     {
       "tick": 42,
       "content": "本体们的手动了1笔",
-      "potency": 0.116,
+      "potency": 0.115,
       "born_of": "real_event"
     },
     {
       "tick": 44,
       "content": "本体们的手动了1笔",
-      "potency": 0.105,
+      "potency": 0.104,
       "born_of": "real_event"
     },
     {
       "tick": 46,
       "content": "本体们的手动了1笔",
-      "potency": 0.096,
+      "potency": 0.095,
       "born_of": "real_event"
     },
     {
       "tick": 49,
       "content": "本体们的手动了1笔",
-      "potency": 0.085,
+      "potency": 0.084,
       "born_of": "real_event"
     },
     {
       "tick": 51,
       "content": "本体们的手动了1笔",
-      "potency": 0.109,
+      "potency": 0.108,
       "born_of": "real_event"
     },
     {
       "tick": 53,
       "content": "本体们的手动了1笔",
-      "potency": 0.105,
+      "potency": 0.104,
       "born_of": "real_event"
     },
     {
       "tick": 57,
       "content": "本体们的手动了1笔",
-      "potency": 0.124,
+      "potency": 0.123,
       "born_of": "real_event"
     },
     {
       "tick": 62,
       "content": "本体们的手动了1笔",
-      "potency": 0.087,
+      "potency": 0.086,
       "born_of": "real_event"
     },
     {
       "tick": 65,
       "content": "本体们的手动了1笔",
-      "potency": 0.089,
+      "potency": 0.088,
       "born_of": "real_event"
     },
     {
       "tick": 68,
       "content": "本体们的手动了1笔",
-      "potency": 0.089,
+      "potency": 0.088,
       "born_of": "real_event"
     },
     {
       "tick": 70,
       "content": "本体们的手动了1笔",
-      "potency": 0.096,
+      "potency": 0.095,
       "born_of": "real_event"
     },
     {
       "tick": 72,
       "content": "本体们的手动了1笔",
-      "potency": 0.128,
+      "potency": 0.127,
       "born_of": "real_event"
     },
     {
       "tick": 76,
       "content": "本体们的手动了1笔",
-      "potency": 0.118,
+      "potency": 0.117,
       "born_of": "real_event"
     },
     {
       "tick": 78,
       "content": "本体们的手动了1笔",
-      "potency": 0.115,
+      "potency": 0.114,
       "born_of": "real_event"
     },
     {
       "tick": 82,
       "content": "本体们的手动了1笔",
-      "potency": 0.099,
+      "potency": 0.098,
       "born_of": "real_event"
     },
     {
       "tick": 84,
       "content": "本体们的手动了1笔",
-      "potency": 0.105,
+      "potency": 0.104,
       "born_of": "real_event"
     },
     {
       "tick": 86,
       "content": "本体们的手动了1笔",
-      "potency": 0.11,
+      "potency": 0.109,
       "born_of": "real_event"
     },
     {
       "tick": 88,
       "content": "本体们的手动了1笔",
-      "potency": 0.1,
+      "potency": 0.099,
       "born_of": "real_event"
     },
     {
       "tick": 92,
       "content": "本体们的手动了1笔",
-      "potency": 0.139,
+      "potency": 0.138,
       "born_of": "real_event"
     },
     {
       "tick": 95,
       "content": "本体们的手动了1笔",
-      "potency": 0.102,
+      "potency": 0.101,
       "born_of": "real_event"
     },
     {
       "tick": 99,
       "content": "本体们的手动了1笔",
-      "potency": 0.111,
+      "potency": 0.11,
       "born_of": "real_event"
     },
     {
       "tick": 102,
       "content": "本体们的手动了1笔",
-      "potency": 0.106,
+      "potency": 0.105,
       "born_of": "real_event"
     },
     {
       "tick": 104,
       "content": "本体们的手动了1笔",
-      "potency": 0.128,
+      "potency": 0.127,
       "born_of": "real_event"
     },
     {
       "tick": 107,
       "content": "本体们的手动了1笔",
-      "potency": 0.113,
+      "potency": 0.112,
       "born_of": "real_event"
     },
     {
       "tick": 111,
       "content": "本体们的手动了1笔",
-      "potency": 0.132,
+      "potency": 0.131,
       "born_of": "real_event"
     },
     {
       "tick": 115,
       "content": "本体们的手动了1笔",
-      "potency": 0.129,
+      "potency": 0.128,
       "born_of": "real_event"
     },
     {
       "tick": 119,
       "content": "本体们的手动了1笔",
-      "potency": 0.129,
+      "potency": 0.128,
       "born_of": "real_event"
     },
     {
       "tick": 121,
       "content": "本体们的手动了1笔",
-      "potency": 0.127,
+      "potency": 0.126,
       "born_of": "real_event"
     },
     {
       "tick": 125,
       "content": "本体们的手动了1笔",
-      "potency": 0.122,
+      "potency": 0.121,
       "born_of": "real_event"
     },
     {
       "tick": 129,
       "content": "本体们的手动了1笔",
-      "potency": 0.118,
+      "potency": 0.117,
       "born_of": "real_event"
     },
     {
       "tick": 134,
       "content": "本体们的手动了1笔",
-      "potency": 0.121,
+      "potency": 0.12,
       "born_of": "real_event"
     },
     {
       "tick": 137,
       "content": "本体们的手动了1笔",
-      "potency": 0.136,
+      "potency": 0.135,
       "born_of": "real_event"
     },
     {
       "tick": 141,
       "content": "本体们的手动了1笔",
-      "potency": 0.111,
+      "potency": 0.11,
       "born_of": "real_event"
     },
     {
       "tick": 145,
       "content": "本体们的手动了1笔",
-      "potency": 0.164,
+      "potency": 0.162,
       "born_of": "real_event"
     },
     {
       "tick": 147,
       "content": "本体们的手动了1笔",
-      "potency": 0.139,
+      "potency": 0.138,
       "born_of": "real_event"
     },
     {
       "tick": 151,
       "content": "本体们的手动了1笔",
-      "potency": 0.158,
+      "potency": 0.156,
       "born_of": "real_event"
     },
     {
       "tick": 156,
       "content": "本体们的手动了1笔",
-      "potency": 0.13,
+      "potency": 0.129,
       "born_of": "real_event"
     },
     {
       "tick": 158,
       "content": "本体们的手动了1笔",
-      "potency": 0.151,
+      "potency": 0.149,
       "born_of": "real_event"
     },
     {
       "tick": 161,
       "content": "本体们的手动了1笔",
-      "potency": 0.118,
+      "potency": 0.117,
       "born_of": "real_event"
     },
     {
       "tick": 163,
       "content": "本体们的手动了1笔",
-      "potency": 0.125,
+      "potency": 0.124,
       "born_of": "real_event"
     },
     {
       "tick": 167,
       "content": "本体们的手动了1笔",
-      "potency": 0.13,
+      "potency": 0.129,
       "born_of": "real_event"
     },
     {
       "tick": 172,
       "content": "本体们的手动了1笔",
-      "potency": 0.128,
+      "potency": 0.127,
       "born_of": "real_event"
     },
     {
       "tick": 174,
       "content": "本体们的手动了1笔",
-      "potency": 0.154,
+      "potency": 0.152,
       "born_of": "real_event"
     },
     {
       "tick": 177,
       "content": "本体们的手动了1笔",
-      "potency": 0.14,
+      "potency": 0.139,
       "born_of": "real_event"
     },
     {
       "tick": 180,
       "content": "本体们的手动了1笔",
-      "potency": 0.182,
+      "potency": 0.18,
       "born_of": "real_event"
     },
     {
       "tick": 182,
       "content": "本体们的手动了1笔",
-      "potency": 0.133,
+      "potency": 0.132,
       "born_of": "real_event"
     },
     {
       "tick": 187,
       "content": "本体们的手动了1笔",
-      "potency": 0.177,
+      "potency": 0.175,
       "born_of": "real_event"
     },
     {
       "tick": 190,
       "content": "本体们的手动了1笔",
-      "potency": 0.195,
+      "potency": 0.193,
       "born_of": "real_event"
     },
     {
       "tick": 192,
       "content": "本体们的手动了1笔",
-      "potency": 0.139,
+      "potency": 0.138,
       "born_of": "real_event"
     },
     {
       "tick": 197,
       "content": "本体们的手动了1笔",
-      "potency": 0.172,
+      "potency": 0.17,
       "born_of": "real_event"
     },
     {
       "tick": 202,
       "content": "本体们的手动了1笔",
-      "potency": 0.169,
+      "potency": 0.167,
       "born_of": "real_event"
     },
     {
       "tick": 207,
       "content": "本体们的手动了1笔",
-      "potency": 0.14,
+      "potency": 0.139,
       "born_of": "real_event"
     },
     {
       "tick": 212,
       "content": "本体们的手动了1笔",
-      "potency": 0.181,
+      "potency": 0.179,
       "born_of": "real_event"
     },
     {
       "tick": 217,
       "content": "本体们的手动了1笔",
-      "potency": 0.159,
+      "potency": 0.157,
       "born_of": "real_event"
     },
     {
       "tick": 220,
       "content": "本体们的手动了1笔",
-      "potency": 0.145,
+      "potency": 0.143,
       "born_of": "real_event"
     },
     {
       "tick": 223,
       "content": "本体们的手动了1笔",
-      "potency": 0.198,
+      "potency": 0.196,
       "born_of": "real_event"
     },
     {
       "tick": 228,
       "content": "本体们的手动了1笔",
-      "potency": 0.161,
+      "potency": 0.159,
       "born_of": "real_event"
     },
     {
       "tick": 233,
       "content": "本体们的手动了1笔",
-      "potency": 0.17,
+      "potency": 0.168,
       "born_of": "real_event"
     },
     {
       "tick": 235,
       "content": "本体们的手动了1笔",
-      "potency": 0.21,
+      "potency": 0.208,
       "born_of": "real_event"
     },
     {
       "tick": 239,
       "content": "本体们的手动了1笔",
-      "potency": 0.16,
+      "potency": 0.158,
       "born_of": "real_event"
     },
     {
       "tick": 242,
       "content": "本体们的手动了1笔",
-      "potency": 0.214,
+      "potency": 0.212,
       "born_of": "real_event"
     },
     {
       "tick": 244,
       "content": "本体们的手动了1笔",
-      "potency": 0.202,
+      "potency": 0.2,
       "born_of": "real_event"
     },
     {
       "tick": 248,
       "content": "本体们的手动了1笔",
-      "potency": 0.159,
+      "potency": 0.157,
       "born_of": "real_event"
     },
     {
       "tick": 250,
       "content": "本体们的手动了1笔",
-      "potency": 0.15,
+      "potency": 0.148,
       "born_of": "real_event"
     },
     {
       "tick": 255,
       "content": "本体们的手动了1笔",
-      "potency": 0.161,
+      "potency": 0.159,
       "born_of": "real_event"
     },
     {
       "tick": 260,
       "content": "本体们的手动了1笔",
-      "potency": 0.192,
+      "potency": 0.19,
       "born_of": "real_event"
     },
     {
       "tick": 264,
       "content": "本体们的手动了1笔",
-      "potency": 0.194,
+      "potency": 0.192,
       "born_of": "real_event"
     },
     {
       "tick": 269,
       "content": "本体们的手动了1笔",
-      "potency": 0.179,
+      "potency": 0.177,
       "born_of": "real_event"
     },
     {
       "tick": 274,
       "content": "本体们的手动了1笔",
-      "potency": 0.184,
+      "potency": 0.182,
       "born_of": "real_event"
     },
     {
       "tick": 278,
       "content": "本体们的手动了1笔",
-      "potency": 0.229,
+      "potency": 0.227,
       "born_of": "real_event"
     },
     {
       "tick": 281,
       "content": "本体们的手动了1笔",
-      "potency": 0.23,
+      "potency": 0.228,
       "born_of": "real_event"
     },
     {
       "tick": 285,
       "content": "本体们的手动了1笔",
-      "potency": 0.233,
+      "potency": 0.231,
       "born_of": "real_event"
     },
     {
       "tick": 287,
       "content": "本体们的手动了1笔",
-      "potency": 0.246,
+      "potency": 0.243,
       "born_of": "real_event"
     },
     {
       "tick": 292,
       "content": "本体们的手动了1笔",
-      "potency": 0.208,
+      "potency": 0.206,
       "born_of": "real_event"
     },
     {
       "tick": 296,
       "content": "本体们的手动了1笔",
-      "potency": 0.165,
+      "potency": 0.163,
       "born_of": "real_event"
     },
     {
       "tick": 300,
       "content": "本体们的手动了1笔",
-      "potency": 0.222,
+      "potency": 0.22,
       "born_of": "real_event"
     },
     {
       "tick": 303,
       "content": "本体们的手动了1笔",
-      "potency": 0.223,
+      "potency": 0.221,
       "born_of": "real_event"
     },
     {
       "tick": 308,
       "content": "本体们的手动了1笔",
-      "potency": 0.226,
+      "potency": 0.224,
       "born_of": "real_event"
     },
     {
       "tick": 312,
       "content": "本体们的手动了1笔",
-      "potency": 0.186,
+      "potency": 0.184,
       "born_of": "real_event"
     },
     {
       "tick": 316,
       "content": "本体们的手动了1笔",
-      "potency": 0.219,
+      "potency": 0.217,
       "born_of": "real_event"
     },
     {
       "tick": 320,
       "content": "本体们的手动了1笔",
-      "potency": 0.186,
+      "potency": 0.184,
       "born_of": "real_event"
     },
     {
       "tick": 322,
       "content": "本体们的手动了1笔",
-      "potency": 0.229,
+      "potency": 0.227,
       "born_of": "real_event"
     },
     {
       "tick": 324,
       "content": "本体们的手动了1笔",
-      "potency": 0.192,
+      "potency": 0.19,
       "born_of": "real_event"
     },
     {
       "tick": 328,
       "content": "本体们的手动了1笔",
-      "potency": 0.249,
+      "potency": 0.246,
       "born_of": "real_event"
     },
     {
       "tick": 331,
       "content": "本体们的手动了1笔",
-      "potency": 0.218,
+      "potency": 0.216,
       "born_of": "real_event"
     },
     {
       "tick": 333,
       "content": "本体们的手动了1笔",
-      "potency": 0.201,
+      "potency": 0.199,
       "born_of": "real_event"
     },
     {
       "tick": 335,
       "content": "本体们的手动了1笔",
-      "potency": 0.294,
+      "potency": 0.291,
       "born_of": "real_event"
     },
     {
       "tick": 337,
       "content": "本体们的手动了1笔",
-      "potency": 0.297,
+      "potency": 0.294,
       "born_of": "real_event"
     },
     {
       "tick": 341,
       "content": "本体们的手动了1笔",
-      "potency": 0.247,
+      "potency": 0.244,
       "born_of": "real_event"
     },
     {
       "tick": 345,
       "content": "本体们的手动了1笔",
-      "potency": 0.258,
+      "potency": 0.255,
       "born_of": "real_event"
     },
     {
       "tick": 347,
       "content": "本体们的手动了1笔",
-      "potency": 0.204,
+      "potency": 0.202,
       "born_of": "real_event"
     },
     {
       "tick": 349,
       "content": "本体们的手动了1笔",
-      "potency": 0.3,
+      "potency": 0.297,
       "born_of": "real_event"
     },
     {
       "tick": 353,
       "content": "本体们的手动了1笔",
-      "potency": 0.226,
+      "potency": 0.224,
       "born_of": "real_event"
     },
     {
       "tick": 356,
       "content": "本体们的手动了1笔",
-      "potency": 0.294,
+      "potency": 0.291,
       "born_of": "real_event"
     },
     {
       "tick": 361,
       "content": "本体们的手动了1笔",
-      "potency": 0.225,
+      "potency": 0.223,
       "born_of": "real_event"
     },
     {
       "tick": 366,
       "content": "本体们的手动了1笔",
-      "potency": 0.233,
+      "potency": 0.231,
       "born_of": "real_event"
     },
     {
       "tick": 369,
       "content": "本体们的手动了1笔",
-      "potency": 0.298,
+      "potency": 0.295,
       "born_of": "real_event"
     },
     {
       "tick": 374,
       "content": "本体们的手动了1笔",
-      "potency": 0.233,
+      "potency": 0.231,
       "born_of": "real_event"
     },
     {
       "tick": 379,
       "content": "本体们的手动了1笔",
-      "potency": 0.276,
+      "potency": 0.273,
       "born_of": "real_event"
     },
     {
       "tick": 384,
       "content": "本体们的手动了1笔",
-      "potency": 0.306,
+      "potency": 0.303,
       "born_of": "real_event"
     },
     {
       "tick": 388,
       "content": "本体们的手动了1笔",
-      "potency": 0.227,
+      "potency": 0.225,
       "born_of": "real_event"
     },
     {
       "tick": 392,
       "content": "本体们的手动了1笔",
-      "potency": 0.313,
+      "potency": 0.31,
       "born_of": "real_event"
     },
     {
       "tick": 394,
       "content": "本体们的手动了1笔",
-      "potency": 0.312,
+      "potency": 0.309,
       "born_of": "real_event"
     },
     {
       "tick": 396,
       "content": "本体们的手动了1笔",
-      "potency": 0.231,
+      "potency": 0.229,
       "born_of": "real_event"
     },
     {
       "tick": 400,
       "content": "本体们的手动了1笔",
-      "potency": 0.336,
+      "potency": 0.332,
       "born_of": "real_event"
     },
     {
       "tick": 402,
       "content": "本体们的手动了1笔",
-      "potency": 0.271,
+      "potency": 0.268,
       "born_of": "real_event"
     },
     {
       "tick": 406,
       "content": "本体们的手动了1笔",
-      "potency": 0.262,
+      "potency": 0.259,
       "born_of": "real_event"
     },
     {
       "tick": 411,
       "content": "本体们的手动了1笔",
-      "potency": 0.241,
+      "potency": 0.238,
       "born_of": "real_event"
     },
     {
       "tick": 416,
       "content": "本体们的手动了1笔",
-      "potency": 0.354,
+      "potency": 0.35,
       "born_of": "real_event"
     },
     {
       "tick": 421,
       "content": "本体们的手动了1笔",
-      "potency": 0.354,
+      "potency": 0.35,
       "born_of": "real_event"
     },
     {
       "tick": 423,
       "content": "本体们的手动了1笔",
-      "potency": 0.349,
+      "potency": 0.345,
       "born_of": "real_event"
     },
     {
       "tick": 426,
       "content": "本体们的手动了1笔",
-      "potency": 0.344,
+      "potency": 0.34,
       "born_of": "real_event"
     },
     {
       "tick": 431,
       "content": "本体们的手动了1笔",
-      "potency": 0.382,
+      "potency": 0.378,
       "born_of": "real_event"
     },
     {
       "tick": 434,
       "content": "本体们的手动了1笔",
-      "potency": 0.331,
+      "potency": 0.327,
       "born_of": "real_event"
     },
     {
       "tick": 437,
       "content": "本体们的手动了1笔",
-      "potency": 0.267,
+      "potency": 0.264,
       "born_of": "real_event"
     },
     {
       "tick": 440,
       "content": "本体们的手动了1笔",
-      "potency": 0.309,
+      "potency": 0.306,
       "born_of": "real_event"
     },
     {
       "tick": 443,
       "content": "本体们的手动了1笔",
-      "potency": 0.374,
+      "potency": 0.37,
       "born_of": "real_event"
     },
     {
       "tick": 447,
       "content": "本体们的手动了1笔",
-      "potency": 0.39,
+      "potency": 0.386,
       "born_of": "real_event"
     },
     {
       "tick": 451,
       "content": "本体们的手动了1笔",
-      "potency": 0.396,
+      "potency": 0.392,
       "born_of": "real_event"
     },
     {
       "tick": 456,
       "content": "本体们的手动了1笔",
-      "potency": 0.296,
+      "potency": 0.293,
       "born_of": "real_event"
     },
     {
       "tick": 461,
       "content": "本体们的手动了1笔",
-      "potency": 0.339,
+      "potency": 0.335,
       "born_of": "real_event"
     },
     {
       "tick": 463,
       "content": "本体们的手动了1笔",
-      "potency": 0.339,
+      "potency": 0.335,
       "born_of": "real_event"
     },
     {
       "tick": 466,
       "content": "本体们的手动了1笔",
-      "potency": 0.347,
+      "potency": 0.343,
       "born_of": "real_event"
     },
     {
       "tick": 470,
       "content": "本体们的手动了1笔",
-      "potency": 0.346,
+      "potency": 0.342,
       "born_of": "real_event"
     },
     {
       "tick": 473,
       "content": "本体们的手动了1笔",
-      "potency": 0.364,
+      "potency": 0.36,
       "born_of": "real_event"
     },
     {
       "tick": 475,
       "content": "本体们的手动了1笔",
-      "potency": 0.386,
+      "potency": 0.382,
       "born_of": "real_event"
     },
     {
       "tick": 480,
       "content": "本体们的手动了1笔",
-      "potency": 0.437,
+      "potency": 0.432,
       "born_of": "real_event"
     },
     {
       "tick": 484,
       "content": "本体们的手动了1笔",
-      "potency": 0.333,
+      "potency": 0.329,
       "born_of": "real_event"
     },
     {
       "tick": 487,
       "content": "本体们的手动了1笔",
-      "potency": 0.317,
+      "potency": 0.314,
       "born_of": "real_event"
     },
     {
       "tick": 492,
       "content": "本体们的手动了1笔",
-      "potency": 0.297,
+      "potency": 0.294,
       "born_of": "real_event"
     },
     {
       "tick": 496,
       "content": "本体们的手动了1笔",
-      "potency": 0.312,
+      "potency": 0.309,
       "born_of": "real_event"
     },
     {
       "tick": 501,
       "content": "本体们的手动了1笔",
-      "potency": 0.454,
+      "potency": 0.449,
       "born_of": "real_event"
     },
     {
       "tick": 506,
       "content": "本体们的手动了1笔",
-      "potency": 0.428,
+      "potency": 0.423,
       "born_of": "real_event"
     },
     {
       "tick": 509,
       "content": "本体们的手动了1笔",
-      "potency": 0.429,
+      "potency": 0.424,
       "born_of": "real_event"
     },
     {
       "tick": 511,
       "content": "本体们的手动了1笔",
-      "potency": 0.484,
+      "potency": 0.479,
       "born_of": "real_event"
     },
     {
       "tick": 513,
       "content": "本体们的手动了1笔",
-      "potency": 0.343,
+      "potency": 0.339,
       "born_of": "real_event"
     },
     {
       "tick": 517,
       "content": "本体们的手动了1笔",
-      "potency": 0.355,
+      "potency": 0.351,
       "born_of": "real_event"
     },
     {
       "tick": 520,
       "content": "本体们的手动了1笔",
-      "potency": 0.436,
+      "potency": 0.431,
       "born_of": "real_event"
     },
     {
       "tick": 523,
       "content": "本体们的手动了1笔",
-      "potency": 0.384,
+      "potency": 0.38,
       "born_of": "real_event"
     },
     {
       "tick": 527,
       "content": "本体们的手动了1笔",
-      "potency": 0.366,
+      "potency": 0.362,
       "born_of": "real_event"
     },
     {
       "tick": 529,
       "content": "本体们的手动了1笔",
-      "potency": 0.452,
+      "potency": 0.447,
       "born_of": "real_event"
     },
     {
       "tick": 534,
       "content": "本体们的手动了1笔",
-      "potency": 0.438,
+      "potency": 0.433,
       "born_of": "real_event"
     },
     {
       "tick": 538,
       "content": "本体们的手动了1笔",
-      "potency": 0.364,
+      "potency": 0.36,
       "born_of": "real_event"
     },
     {
       "tick": 541,
       "content": "本体们的手动了1笔",
-      "potency": 0.526,
+      "potency": 0.52,
       "born_of": "real_event"
     },
     {
       "tick": 543,
       "content": "本体们的手动了1笔",
-      "potency": 0.399,
+      "potency": 0.395,
       "born_of": "real_event"
     },
     {
       "tick": 545,
       "content": "本体们的手动了1笔",
-      "potency": 0.431,
+      "potency": 0.426,
       "born_of": "real_event"
     },
     {
       "tick": 548,
       "content": "本体们的手动了1笔",
-      "potency": 0.52,
+      "potency": 0.514,
       "born_of": "real_event"
     },
     {
       "tick": 550,
       "content": "本体们的手动了1笔",
-      "potency": 0.392,
+      "potency": 0.388,
       "born_of": "real_event"
     },
     {
       "tick": 553,
       "content": "本体们的手动了1笔",
-      "potency": 0.556,
+      "potency": 0.55,
       "born_of": "real_event"
     },
     {
       "tick": 557,
       "content": "本体们的手动了1笔",
-      "potency": 0.54,
+      "potency": 0.534,
       "born_of": "real_event"
     },
     {
       "tick": 559,
       "content": "本体们的手动了1笔",
-      "potency": 0.549,
+      "potency": 0.543,
       "born_of": "real_event"
     },
     {
       "tick": 563,
       "content": "本体们的手动了1笔",
-      "potency": 0.544,
+      "potency": 0.538,
       "born_of": "real_event"
     },
     {
       "tick": 565,
       "content": "本体们的手动了1笔",
-      "potency": 0.588,
+      "potency": 0.582,
       "born_of": "real_event"
     },
     {
       "tick": 567,
       "content": "本体们的手动了1笔",
-      "potency": 0.476,
+      "potency": 0.471,
       "born_of": "real_event"
     },
     {
       "tick": 571,
       "content": "本体们的手动了1笔",
-      "potency": 0.4,
+      "potency": 0.396,
       "born_of": "real_event"
     },
     {
       "tick": 575,
       "content": "本体们的手动了1笔",
-      "potency": 0.511,
+      "potency": 0.506,
       "born_of": "real_event"
     },
     {
       "tick": 577,
       "content": "本体们的手动了1笔",
-      "potency": 0.414,
+      "potency": 0.41,
       "born_of": "real_event"
     },
     {
       "tick": 580,
       "content": "本体们的手动了1笔",
-      "potency": 0.603,
+      "potency": 0.597,
       "born_of": "real_event"
     },
     {
       "tick": 582,
       "content": "本体们的手动了1笔",
-      "potency": 0.502,
+      "potency": 0.497,
       "born_of": "real_event"
     },
     {
       "tick": 587,
       "content": "本体们的手动了1笔",
-      "potency": 0.438,
+      "potency": 0.433,
       "born_of": "real_event"
     },
     {
       "tick": 590,
       "content": "本体们的手动了1笔",
-      "potency": 0.513,
+      "potency": 0.508,
       "born_of": "real_event"
     },
     {
       "tick": 594,
       "content": "本体们的手动了1笔",
-      "potency": 0.46,
+      "potency": 0.455,
       "born_of": "real_event"
     },
     {
       "tick": 599,
       "content": "本体们的手动了1笔",
-      "potency": 0.423,
+      "potency": 0.419,
       "born_of": "real_event"
     },
     {
       "tick": 603,
       "content": "本体们的手动了1笔",
-      "potency": 0.571,
+      "potency": 0.565,
       "born_of": "real_event"
     },
     {
       "tick": 606,
       "content": "本体们的手动了1笔",
-      "potency": 0.508,
+      "potency": 0.503,
       "born_of": "real_event"
     },
     {
       "tick": 611,
       "content": "本体们的手动了1笔",
-      "potency": 0.472,
+      "potency": 0.467,
       "born_of": "real_event"
     },
     {
       "tick": 614,
       "content": "本体们的手动了1笔",
-      "potency": 0.586,
+      "potency": 0.58,
       "born_of": "real_event"
     },
     {
       "tick": 618,
       "content": "本体们的手动了1笔",
-      "potency": 0.507,
+      "potency": 0.502,
       "born_of": "real_event"
     },
     {
       "tick": 622,
       "content": "本体们的手动了1笔",
-      "potency": 0.672,
+      "potency": 0.665,
       "born_of": "real_event"
     },
     {
       "tick": 625,
       "content": "本体们的手动了1笔",
-      "potency": 0.502,
+      "potency": 0.497,
       "born_of": "real_event"
     },
     {
       "tick": 628,
       "content": "本体们的手动了1笔",
-      "potency": 0.488,
+      "potency": 0.483,
       "born_of": "real_event"
     },
     {
       "tick": 633,
       "content": "本体们的手动了1笔",
-      "potency": 0.491,
+      "potency": 0.486,
       "born_of": "real_event"
     },
     {
       "tick": 635,
       "content": "本体们的手动了1笔",
-      "potency": 0.693,
+      "potency": 0.686,
       "born_of": "real_event"
     },
     {
       "tick": 640,
       "content": "本体们的手动了1笔",
-      "potency": 0.553,
+      "potency": 0.547,
       "born_of": "real_event"
     },
     {
       "tick": 644,
       "content": "本体们的手动了1笔",
-      "potency": 0.543,
+      "potency": 0.537,
       "born_of": "real_event"
     },
     {
       "tick": 649,
       "content": "本体们的手动了1笔",
-      "potency": 0.57,
+      "potency": 0.564,
       "born_of": "real_event"
     },
     {
       "tick": 651,
       "content": "本体们的手动了1笔",
-      "potency": 0.618,
+      "potency": 0.611,
       "born_of": "real_event"
     },
     {
       "tick": 656,
       "content": "本体们的手动了1笔",
-      "potency": 0.763,
+      "potency": 0.755,
       "born_of": "real_event"
     },
     {
       "tick": 659,
       "content": "本体们的手动了1笔",
-      "potency": 0.669,
+      "potency": 0.662,
       "born_of": "real_event"
     },
     {
       "tick": 662,
       "content": "本体们的手动了1笔",
-      "potency": 0.675,
+      "potency": 0.668,
       "born_of": "real_event"
     },
     {
       "tick": 667,
       "content": "本体们的手动了1笔",
-      "potency": 0.529,
+      "potency": 0.523,
       "born_of": "real_event"
     },
     {
       "tick": 671,
       "content": "本体们的手动了1笔",
-      "potency": 0.713,
+      "potency": 0.705,
       "born_of": "real_event"
     },
     {
       "tick": 673,
       "content": "本体们的手动了1笔",
-      "potency": 0.671,
+      "potency": 0.664,
       "born_of": "real_event"
     },
     {
       "tick": 678,
       "content": "本体们的手动了1笔",
-      "potency": 0.591,
+      "potency": 0.585,
       "born_of": "real_event"
     },
     {
       "tick": 683,
       "content": "本体们的手动了1笔",
-      "potency": 0.587,
+      "potency": 0.581,
       "born_of": "real_event"
     },
     {
       "tick": 687,
       "content": "本体们的手动了1笔",
-      "potency": 0.829,
+      "potency": 0.82,
       "born_of": "real_event"
     },
     {
       "tick": 692,
       "content": "本体们的手动了1笔",
-      "potency": 0.712,
+      "potency": 0.704,
       "born_of": "real_event"
     },
     {
       "tick": 697,
       "content": "本体们的手动了1笔",
-      "potency": 0.618,
+      "potency": 0.611,
       "born_of": "real_event"
     },
     {
       "tick": 700,
       "content": "本体们的手动了1笔",
-      "potency": 0.814,
+      "potency": 0.805,
       "born_of": "real_event"
     },
     {
       "tick": 703,
       "content": "本体们的手动了1笔",
-      "potency": 0.802,
+      "potency": 0.793,
       "born_of": "real_event"
     },
     {
       "tick": 706,
       "content": "本体们的手动了1笔",
-      "potency": 0.86,
+      "potency": 0.851,
       "born_of": "real_event"
     },
     {
       "tick": 708,
       "content": "本体们的手动了1笔",
-      "potency": 0.643,
+      "potency": 0.636,
       "born_of": "real_event"
     },
     {
       "tick": 710,
       "content": "本体们的手动了1笔",
-      "potency": 0.907,
+      "potency": 0.897,
       "born_of": "real_event"
     },
     {
       "tick": 714,
       "content": "本体们的手动了1笔",
-      "potency": 0.917,
+      "potency": 0.907,
       "born_of": "real_event"
     },
     {
       "tick": 717,
       "content": "本体们的手动了1笔",
-      "potency": 0.686,
+      "potency": 0.679,
       "born_of": "real_event"
     },
     {
       "tick": 722,
       "content": "本体们的手动了1笔",
-      "potency": 0.595,
+      "potency": 0.589,
+      "born_of": "real_event"
+    },
+    {
+      "tick": 726,
+      "content": "本体们的手动了1笔",
+      "potency": 0.813,
       "born_of": "real_event"
     }
   ],
   "memory_peaks": [],
   "quiet_streak": 0,
-  "last_seen_commit": "35d3bde7dcaea657cdf9b1feedfdedac4a336ae4"
+  "last_seen_commit": "d535221b8094664b741dbf66a376cb434f4e5d18"
 }
